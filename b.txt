@@ -1,2 +1,2 @@
-this is B file.
+this is BC file.
 now this is modified..
